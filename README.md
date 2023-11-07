@@ -1,3 +1,6 @@
+## Next.js
+> Next.js 수업 진행과정을 저장해둔 곳 입니다.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
