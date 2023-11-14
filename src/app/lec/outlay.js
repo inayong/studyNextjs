@@ -19,3 +19,5 @@ export default function LecLayout({ children }) {
         </main>
     );
 }
+
+//layout.js인데 메인 페이지에서 이거까지딸려와서 이름 바꿈
